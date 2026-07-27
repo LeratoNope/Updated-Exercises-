@@ -1,6 +1,4 @@
-# Updated-Exercises-
-
-📘 SQL Fundamentals Practice Repository
+# 📘 SQL Fundamentals Practice Repository
 
 This repository documents my journey in mastering SQL fundamentals and applying them to real-world data analytics scenarios.
 
